@@ -49,4 +49,4 @@ Comecei a fazer perguntas que eu queria saber para complementar minha hipótese.
 Comecei definindo as questões que eu quero responder, depois comecei a fazer a limpeza de dados e depois criei métricas importantes antes de mergulhar na análise, validei o problema que eu queria resolver, criei algumas hipóteses para refutar ou validar com isso já tinha terminado minha análise exploratória comecei a segmentar os dados para responder minhas perguntas e hipótese depois de indetificar o que já aconteceu comecei a parte final da análise para gerar insight para a melhor tomada de decisões.
 
 
-### [Veja minha apresentação para ver os insights da análise](https://encurtador.com.br/oR348)
+### [Veja os insights da análise](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDavidRherinson%2Fprojeto_analise_campanha%2Fmain%2FAn%25C3%25A1lise%2520de%2520campanha.pptx&wdOrigin=BROWSELINK)
