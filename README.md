@@ -51,4 +51,4 @@ Segmentei alguns dados que achei relevante para poder responder minhas perguntas
 Utilizando o método científico para fazer minha análise comecei entendendo meus dados e depois definindo as questões que quero responder, criei a minha hipótese depois comecei a fazer a limpeza de dados e depois criei métricas importantes antes de mergulhar na análise, validei o problema que eu queria resolver, com isso já tinha terminado minha análise exploratória comecei a segmentar os dados para responder minhas perguntas e hipótese após identificar o que já aconteceu comecei a parte final da análise para gerar insight para a melhor tomada de decisões.
 
 
-### [Veja os insights da análise]([https://1drv.ms/p/c/23e8fc38d480e785/EWrdbaqfbNJKixLqbCq6724BpLidL2F0l3IZsVrwY8B_3g?e=EOewbr])
+### [Veja os insights da análise](https://1drv.ms/p/c/23e8fc38d480e785/EWrdbaqfbNJKixLqbCq6724BpLidL2F0l3IZsVrwY8B_3g?e=EOewbr)
