@@ -1,12 +1,6 @@
-# Projeto de Análise de dados
+# Análise de campanha de digital marketing
 
 Esta análise visa identificar como as campanhas podem ser optimizadas para se obtenha melhores resultados sem elevar proporcionalmente os custos.
-
-## Análise de campanha de digital marketing
-
-O primeiro passo foi definir quais perguntas que eu quero responder.
-
-Questão principal: Como otimizar as campanhas para obter o melhor desempenho e custo beneficio.
 
 ## Limpeza de dados
 
