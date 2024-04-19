@@ -7,8 +7,9 @@ Esta análise visa identificar como as campanhas podem ser optimizadas para se o
 Já peguei os dados prontos porem precisava de muita limpeza.
 
 - Remover erros.
-- Removendo pontos de dados indesejados - extraindo dados irrelevantes que não têm relação com a análise pretendida.
-- Criar métricas importantes - conforme você está limpando seus dados, você pode perceber que dados importantes estão faltando.
+- Removendo pontos de dados indesejados
+- Extraindo dados irrelevantes que não têm relação com a análise pretendida.
+- Conforme você está limpando seus dados, você pode perceber que dados importantes estão faltando.
 
 
 ## Quenstões Criadas
@@ -28,12 +29,14 @@ Comecei a fazer perguntas para definir minha hipótese.
 Os dados não estão bem segmentados, podemos melhorar o custo beneficio e o número de clicks analisando os dados e melhorando as campanhas conforme a plataforma, CPM, horário dos anúncios e outras métricas relevantes.
 
 
+KPI criada
+
+- CPC (custo por clicks)
+  
+
 ## Métricas criadas
 
-Segmentei alguns dados que achei relevante para poder responder minhas perguntas.
-
 - CPC (clicks / (gastos / 1000) )
-- CPC (custo por clicks)
 - % Reach (porcentagem de impressões comprados por impressões disponíveis)
 - CPA (custo por conversão)
 - CTR (click / impressões)
