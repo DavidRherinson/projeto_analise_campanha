@@ -44,7 +44,7 @@ Os dados não estão bem segmentados, podemos melhorar o custo beneficio e o nú
 
 ## Processo de análise
 
-Utilizando o método científico para fazer minha análise comecei entendendo meus dados e depois comecei a fazer a limpeza de dados e definindo as questões que quero responder validei minhas perguntas rapidamente, criei a minha hipótese e depois criei métricas e KPI importantes antes de mergulhar na análise, com isso já tinha terminado minha análise exploratória comecei a segmentar os dados para responder minhas perguntas e hipótese após fazer as analíses e identificar o que já aconteceu comecei a parte final da análise para gerar insight para a melhor tomada de decisões.
+Utilizando o método científico para fazer minha análise comecei entendendo meus dados e depois comecei a fazer a limpeza de dados e definindo as questões que quero responder validei minhas perguntas rapidamente, criei a minha hipótese e depois criei métricas e KPI importantes antes de mergulhar na análise, com isso já tinha terminado minha análise exploratória comecei a segmentar os dados para responder minhas perguntas e hipótese após fazer as análises e identificar o que já aconteceu comecei a parte final da análise para gerar insight para a melhor tomada de decisões.
 
 
 ### [Veja os insights da análise](https://1drv.ms/p/c/23e8fc38d480e785/EWrdbaqfbNJKixLqbCq6724BpLidL2F0l3IZsVrwY8B_3g?e=EOewbr)
